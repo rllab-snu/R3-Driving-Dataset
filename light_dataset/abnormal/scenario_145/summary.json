@@ -1,0 +1,19 @@
+{
+    "data_type": "abnormal", 
+    "author": "jeongwoooh", 
+    "data_name": "abnormal_scenario_145", 
+    "hazard": {
+        "collision": true, 
+        "lane_changing": true, 
+        "lane_keeping": false, 
+        "unstable": false, 
+        "overtaking": false
+    }, 
+    "road": {
+        "straight": true, 
+        "cross": false
+    }, 
+    "date": "2021-08-26", 
+    "email": "jeongwoo.oh@rllab.snu.ac.kr", 
+    "copy_right": "RLLAB@SNU"
+}
