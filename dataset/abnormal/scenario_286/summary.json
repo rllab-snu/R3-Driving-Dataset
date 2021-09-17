@@ -1,19 +1,20 @@
 {
-    "data_type": "abnormal", 
-    "author": "jeongwoooh", 
-    "data_name": "abnormal_scenario_286", 
-    "hazard": {
-        "collision": true, 
-        "lane_changing": false, 
-        "lane_keeping": false, 
-        "unstable": false, 
-        "overtaking": false
-    }, 
+    "date": "2021-08-23",
+    "data_name": "abnormal_scenario_286",
+    "data_type": "abnormal",
+    "author": "jeongwoooh",
+    "email": "jeongwoo.oh@rllab.snu.ac.kr",
+    "copyright": "RLLAB@SNU",
     "road": {
-        "straight": false, 
+        "straight": false,
         "cross": true
-    }, 
-    "date": "2021-08-23", 
-    "email": "jeongwoo.oh@rllab.snu.ac.kr", 
-    "copy_right": "RLLAB@SNU"
+    },
+    "hazard": {
+        "unstable_driving": false,
+        "failing_lane_keeping": false,
+        "dangerous_lane_changing": false,
+        "dangerous_overtaking": false,
+        "near_collision": true
+    },
+    "n_frames": 30
 }

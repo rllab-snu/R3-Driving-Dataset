@@ -1,13 +1,14 @@
 {
-    "data_type": "expert", 
-    "author": "jeongwoooh", 
-    "data_name": "expert_scenario_009", 
+    "data_name": "expert_scenario_009",
+    "data_type": "expert",
+    "date": "2021-08-13",
+    "author": "jeongwoooh",
+    "email": "jeongwoo.oh@rllab.snu.ac.kr",
+    "copyright": "RLLAB@SNU",
     "location": {
-        "urban": true, 
-        "FMTC": false, 
-        "highway": false
-    }, 
-    "date": "2021-08-13", 
-    "email": "jeongwoo.oh@rllab.snu.ac.kr", 
-    "copy_right": "RLLAB@SNU"
+        "highway": false,
+        "urban": true,
+        "FMTC": false
+    },
+    "n_frames": 3000
 }
